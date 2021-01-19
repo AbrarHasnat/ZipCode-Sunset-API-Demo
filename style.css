@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+h1{
+    padding: 25px;
+}
+
+#timeDisplay{
+    height: 300px;   
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    border-radius: 5px;
+    padding-top: 50px;
+}
+
+#sunrise{
+    background-color: orange;  
+    padding: 70px 0px;
+}
+
+#sunset{
+    background-color: #307fff;  
+    padding: 70px 0px;
+}
+
+#lat{
+    background-color: #307fff;  
+    padding: 70px 0px;
+}
+
+#long{
+    background-color: #307fff;  
+    padding: 70px 0px;
+}
+#city{
+    background-color: orange;  
+    padding: 70px 0px;
+}
+
+#state{
+    background-color: #307fff;  
+    padding: 70px 0px;
+}
